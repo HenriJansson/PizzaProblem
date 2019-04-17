@@ -1,2 +1,2 @@
 # PizzaProblem
-Kattis problem
+Solution to https://open.kattis.com/problems/pizza2
